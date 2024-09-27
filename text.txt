@@ -1,1 +1,3 @@
 oi, estou participando da oficina de git!
+
+oi, estou participando da oficina da liprog!
